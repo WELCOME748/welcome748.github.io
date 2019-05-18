@@ -1,0 +1,27 @@
+---
+layout: post
+title: 手工香皂
+date: 2017-09-12 11:30:00 +0800
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: /soap/Soap_bar.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Productivity, Workflow] # add tag
+---
+
+健康又可愛的手工香皂.
+
+###  造型
+Cute.
+>
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_bar.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_88.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_89.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_91.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_92.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_93.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_94.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_95.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_96.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_97.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_98.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_99.jpg){:height="200px" width="250px"}
